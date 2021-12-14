@@ -1,0 +1,3 @@
+trip_card = '''📍 {point_of_departure}
+📍 {destination_point}
+'''
